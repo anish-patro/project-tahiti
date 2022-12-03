@@ -162,7 +162,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'flex-end',
-    marginTop: '150px',
+    marginTop: '105px',
     [theme.breakpoints.down('lg')]: {
       marginTop: '20px',
     },
